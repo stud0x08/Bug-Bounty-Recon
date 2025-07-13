@@ -1,0 +1,17 @@
+# Go-based recon tools - install via 'go install' or 'git clone && make'
+assetfinder
+subfinder
+waybackurls
+dnsx
+gau
+anew
+httpx-toolkit
+nuclei
+katana
+
+# Wordlists (ensure downloaded manually or via git clone)
+SecLists (for DNS wordlist):
+https://github.com/danielmiessler/SecLists
+
+# Optional dependencies
+crtsh scraping tool (optional, for crtsh.txt generation)
